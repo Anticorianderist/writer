@@ -10,7 +10,7 @@
 ## 0x02 短篇小说
 
 - [《老中》：11/100](https://github.com/Anticorianderist/writer/blob/main/2-short-story/old-center.md)
-- [*Should Love*](https://github.com/Anticorianderist/writer/blob/main/2-short-story/should-love.md)
+- [*Should Love*：100/100](https://github.com/Anticorianderist/writer/blob/main/2-short-story/should-love.md)
 
 ## 0x03 中篇小说
 
