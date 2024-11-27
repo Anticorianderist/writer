@@ -1,8 +1,8 @@
-# The Zero2One of writer
+# The Zero2One of GitHub/harvey-1au/writer
 
 ## 0x01 Goal
 
-写完`10,000 ± 10`个UTF-8字符的短篇小说《死亡》、`100,000 ± 100`个UTF-8字符的中篇小说《暧昧》和`1,000,000 ± 1,000`个UTF-8字符的长篇小说《山风》。
+写完`10,000 ± 10`个UTF-8字符的短篇小说《死亡》、《爱》三篇和`1,000,000 ± 1,000`个UTF-8字符的长篇小说《山风》。
 
 ## 0x02 From One to Zero
 
@@ -10,6 +10,12 @@
 
 > The time of To Do means deadline.
 
+NULL.
+
 ### 2. Done
 
+NULL.
+
 ## 0x03 From Zero to Zero
+
+NULL.
